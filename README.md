@@ -5,6 +5,7 @@ syn-ack flood DoS tool via scapy
 
 tcpdump 까보면 라이브러리가 친절하게 공격 패킷 하나 하나 다 프록시 맥이고있음
 
+# 트러블슈팅
 너가 병신인경우 권한설정 제대로 안했을수도있겠지
 
 `sudo -E python3 main.py`를 해보긔
